@@ -1,0 +1,41 @@
+/*tex align nos sirve para centrar texto e imagen*/
+
+
+body{
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+
+}
+.color-bloque{
+	/*background-color: red; nombre en igles*/
+	background-color: #009999; /*color hexagesimal*/
+	/*background-color: rgb(86, 102, 161); color rgb*/
+	padding-bottom: 20px; /*dando espacio*/
+}
+
+
+p{
+	color: #009999;
+}
+
+/*cambiar tipografía*/
+
+h1{
+	font-family: 'Indie Flower', cursive;
+}
+
+img{
+	width: 400px; anchode imagen
+	/*height: 400px; altodeimagen*/
+}
+
+/* el punto es para llamar a la clase*/
+
+.foto-logo{
+	width: 300px;
+	
+}
+
+.enlaces{
+	border-top: 1px dashed blue;
+}
